@@ -49,6 +49,7 @@ flutter:
     - assets/images/icon_conversor.png
     - assets/images/icon_imc.png
     - assets/images/logo_conversorShow.jpg
+    - assets/images/bg_drawer.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
