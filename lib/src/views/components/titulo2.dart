@@ -8,7 +8,7 @@ class Titulo2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       txt,
-      style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
     );
   }
 }
